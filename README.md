@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Portfolio Hub
+# ✈️ Flight Delay 
 
 An interactive learning platform designed to help aspiring data analysts build a complete **US Domestic Flight Delay Analysis Portfolio**.
 
