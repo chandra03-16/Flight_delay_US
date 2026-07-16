@@ -1,6 +1,0 @@
-{
-  "name": "US Flight Delay Portfolio Dashboard",
-  "description": "An interactive learning environment and portfolio builder for US domestic flight delay analysis using SQL, Excel, and Power BI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
