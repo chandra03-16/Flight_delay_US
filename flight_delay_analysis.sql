@@ -2,7 +2,6 @@
    US FLIGHT DELAY ANALYSIS — SQL SCRIPT
    Dataset: US DOT Reporting Carrier On-Time Performance
    (Kaggle: "Airline Delay and Cancellation Data")
-   Author: Chandraboli Banerjee
    ============================================================
    Workflow: Excel (clean) -> SQL (this file, analyze) -> Power BI (visualize)
    Import the cleaned CSV from Excel into this table before running queries.
@@ -212,7 +211,4 @@ GROUP BY cancellation_reason
 ORDER BY num_cancellations DESC;
 
 /* ============================================================
-   END OF SCRIPT — export results of each query as needed
-   and load into Power BI (or connect Power BI directly to
-   this database via Get Data > SQL Server / MySQL / Postgres)
-   ============================================================ */
+
